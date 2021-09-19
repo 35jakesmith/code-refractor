@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* changed class names to match up and concise */
 .marketing {
     margin-bottom: 20px;
     padding: 50px;
